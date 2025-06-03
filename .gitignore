@@ -1,0 +1,23 @@
+# .gitignore
+
+node_modules/
+tfjs/
+*.json
+*.weights
+*.pb# Dependencies
+node_modules/
+
+# TensorFlow files
+tfjs/
+*.json
+*.weights
+*.pb
+*.bin
+*.dll
+
+# TensorFlow specific directories and files
+@tensorflow/
+tensorflow/
+deps/
+lib/tensorflow.dll
+*.bin
