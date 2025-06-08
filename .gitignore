@@ -1,11 +1,10 @@
 # .gitignore
 
-node_modules/
 tfjs/
 *.json
 *.weights
 *.pb# Dependencies
-node_modules/
+
 
 # TensorFlow files
 tfjs/
