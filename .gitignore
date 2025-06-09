@@ -1,14 +1,14 @@
 # .gitignore
 
 tfjs/
-*.json
+
 *.weights
 *.pb# Dependencies
 
 
 # TensorFlow files
 tfjs/
-*.json
+
 *.weights
 *.pb
 *.bin
